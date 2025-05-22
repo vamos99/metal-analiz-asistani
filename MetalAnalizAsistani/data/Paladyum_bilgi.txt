@@ -1,0 +1,35 @@
+--- Paladyum (Palladium - Pd) Detaylı Bilgi ---
+
+Kimlik ve Özellikler:
+Paladyum, atom numarası 46 olan, platine benzeyen gümüşi beyaz renkte, parlak bir metaldir. Platin Grubu Metaller (PGM) üyesidir. Platin kadar yoğun değildir ancak benzer kimyasal özellikler gösterir: korozyona dayanıklı, sünek, dövülebilir ve iyi bir katalizördür. En dikkat çekici özelliklerinden biri, kendi hacminin 900 katına kadar hidrojeni absorbe edebilmesidir.
+
+Tarihsel ve Kültürel Önem:
+1803 yılında William Hyde Wollaston tarafından keşfedilmiştir (platinden kısa bir süre sonra). Adını, o sıralarda keşfedilen Pallas asteroidinden almıştır. Başlangıçta sahte platin olarak kullanılmış, ancak zamanla benzersiz özellikleri ve endüstriyel uygulamaları sayesinde kendi değerini kazanmıştır. Mücevheratta "beyaz altın" alaşımlarında ve son yıllarda artan fiyatına rağmen kendi başına da kullanılmaktadır.
+
+Ekonomideki Yeri:
+Paladyum, öncelikle endüstriyel bir metaldir ve fiyatı büyük ölçüde otomotiv sektöründeki talebe bağlıdır. Son yıllarda fiyatı platini ve hatta altını geçerek önemli dalgalanmalar göstermiştir.
+*   **Otomotiv Talebi:** Fiyatını belirleyen ana faktördür. Özellikle benzinli araçlardaki katalitik konvertörlere olan talep kritiktir.
+*   **Endüstriyel Talep:** Elektronik ve dişçilik gibi diğer sektörlerdeki talep de fiyatı etkiler.
+*   **Arz Kısıtları:** Arzın büyük ölçüde Rusya ve Güney Afrika'ya bağımlı olması, jeopolitik riskleri ve arz kesintisi olasılıklarını artırarak fiyat oynaklığına neden olabilir.
+*   **Yatırım Talebi:** Fiyatındaki artışlarla birlikte yatırımcı ilgisi de artmıştır, ancak platin veya altına göre daha niş bir yatırım aracıdır.
+
+Kullanım Alanları:
+1.  **Otomotiv Katalitik Konvertörleri:** En büyük ve en önemli kullanım alanıdır (%80'den fazla). Özellikle benzinli araçların egzoz gazlarındaki zararlı kirleticileri (hidrokarbonlar, karbon monoksit, azot oksitler) daha az zararlı maddelere dönüştürmek için kullanılır. Platine göre daha düşük sıcaklıklarda daha etkili olması ve (geçmişte) daha ucuz olması nedeniyle benzinli motorlarda tercih edilmiştir. Sıkılaşan emisyon standartları paladyum talebini artırmıştır.
+2.  **Elektronik:** Çok katmanlı seramik kapasitörlerde (MLCC) elektrot olarak kullanılır. Bu kapasitörler cep telefonları, dizüstü bilgisayarlar ve diğer birçok elektronik cihazda bulunur. Konektör kaplamalarında da kullanılır.
+3.  **Dişçilik:** Diş kronları, köprüler ve dolgu malzemelerinde kullanılan bazı alaşımlarda yer alır (biyouyumluluğu ve korozyon direnci nedeniyle).
+4.  **Mücevherat:** Beyaz altın alaşımlarında altının sarı rengini gidermek için kullanılır. Ayrıca, kendi başına veya platin alternatifi olarak da kullanılır. Platinden daha hafif ve genellikle daha ucuzdur (ancak son fiyat artışları bu durumu değiştirmiştir). Hipoalerjeniktir.
+5.  **Kimya Endüstrisi:** Hidrojenasyon ve dehidrojenasyon reaksiyonlarında katalizör olarak kullanılır. Hidrojen depolama ve saflaştırma potansiyeli araştırılmaktadır.
+6.  **Tıp:** Bazı cerrahi aletlerde ve tedavilerde kullanılır.
+
+Arz Kaynakları:
+Dünya paladyum arzının yaklaşık %40'ı Rusya'dan (özellikle Norilsk Nickel madenlerinden), bir diğer %40'ı ise Güney Afrika'dan sağlanır. Kalan kısım Kuzey Amerika (ABD, Kanada) ve diğer bölgelerden gelir. Genellikle nikel ve platin madenciliğinin bir yan ürünü olarak elde edilir. Bu durum, arzın sadece paladyum fiyatlarına değil, aynı zamanda nikel ve platin piyasalarına da bağlı olduğu anlamına gelir. Rusya'ya olan yüksek bağımlılık, jeopolitik riskleri önemli bir faktör haline getirir. Geri dönüşüm (kullanılmış katalitik konvertörler ve elektronik atıklar) giderek daha önemli bir arz kaynağı olmaktadır.
+
+Fiyat Dinamikleri:
+Paladyum fiyatları son derece volatil olabilir. Ana etkenler şunlardır:
+*   Otomotiv üretimi ve satışları (özellikle benzinli araçlar)
+*   Emisyon standartlarındaki değişiklikler
+*   Rusya ve Güney Afrika'daki arz durumu (maden üretimi, politik istikrar)
+*   Platin fiyatları (ikame potansiyeli nedeniyle)
+*   Elektronik sektöründeki talep
+*   Yatırımcı spekülasyonları
+*   Geri dönüşüm oranları

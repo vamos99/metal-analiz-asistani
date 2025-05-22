@@ -1,0 +1,34 @@
+--- Altın (Gold - Au) Detaylı Bilgi ---
+
+Kimlik ve Özellikler:
+Altın, atom numarası 79, sembolü Au (Latince 'aurum'dan gelir) olan kimyasal bir elementtir. Parlak, hafif kırmızımsı sarı renkte, yoğun (19.3 g/cm³), çok yumuşak (Mohs sertliği 2.5-3), kolayca şekillendirilebilen (dövülebilir ve sünek - 1 gramı 1 metrekarelik levha haline getirilebilir) bir metaldir. Bilinen en iyi elektrik iletkenlerinden biridir (bakır ve gümüşten sonra) ve ısıyı da iyi iletir. Kimyasal olarak oldukça inerttir; yani hava, su, alkaliler ve çoğu asitle (kral suyu hariç) reaksiyona girmez. Bu paslanmama ve kararmama özelliği, tarih boyunca değerini korumasının ve mücevheratta tercih edilmesinin ana nedenlerindendir.
+
+Tarihsel ve Kültürel Önem:
+İnsanlık tarafından bilinen ve işlenen en eski metallerden biridir. Nadirliği, parlaklığı, dayanıklılığı ve kolay işlenebilirliği nedeniyle tarih öncesi çağlardan beri değer görmüştür. Birçok medeniyet (Mısır, Roma, İnka vb.) tarafından zenginlik, güç, statü, krallık, tanrısallık ve ölümsüzlük sembolü olarak kullanılmıştır. İlk madeni paraların basılmasından modern finans sistemlerine kadar para birimi, takas aracı ve değer saklama aracı olarak merkezi bir rol oynamıştır. Sanatta, mimaride ve dini objelerde yaygın olarak kullanılmıştır.
+
+Ekonomideki Yeri:
+Altın, hem bir emtia hem de parasal bir varlık olarak benzersiz bir ekonomik role sahiptir:
+*   **Güvenli Liman (Safe Haven):** Jeopolitik belirsizlikler, savaşlar, ekonomik krizler, finansal sistem endişeleri, yüksek enflasyon veya para birimlerine güvensizlik gibi dönemlerde yatırımcıların riskten kaçınmak için sığındığı geleneksel bir varlıktır. Bu dönemlerde talebi ve fiyatı artma eğilimindedir.
+*   **Değer Saklama Aracı:** Uzun vadede satın alma gücünü koruma eğilimi nedeniyle enflasyona karşı bir korunma (hedge) aracı olarak görülür. Kağıt paralardan farklı olarak içsel bir değere sahip olduğu düşünülür.
+*   **Rezerv Varlık:** Dünyadaki merkez bankaları, ulusal rezervlerinin önemli bir kısmını fiziksel altın olarak tutarlar. Bu, ulusal para birimine olan güveni destekler, finansal istikrar sağlar ve uluslararası ticarette bir güvence oluşturur. Merkez bankalarının altın alım/satımları piyasayı etkileyebilir.
+*   **Dolar ile Ters Korelasyon:** Genellikle ABD dolarının değeri ile ters yönlü bir ilişki içindedir. Dolar zayıfladığında, altın diğer para birimlerini kullananlar için ucuzlar ve uluslararası talep artabilir (ve tersi). Ancak bu korelasyon her zaman geçerli değildir.
+*   **Faiz Oranları Etkisi:** Altın faiz veya temettü getirisi olmayan bir varlıktır. Bu nedenle, faiz oranları (özellikle reel faizler - enflasyondan arındırılmış) yükseldiğinde, faiz getirili varlıklara (tahvil vb.) kıyasla altını tutmanın fırsat maliyeti artar, bu da talebi ve fiyatını baskılayabilir (ve tersi).
+*   **Likidite:** Küresel olarak tanınan ve alınıp satılan oldukça likit bir varlıktır.
+
+Kullanım Alanları:
+1.  **Mücevherat:** Altın talebinin en büyük bölümünü oluşturur (%40-50 civarı). Saf altın (24 ayar) çok yumuşak olduğundan, dayanıklılığı artırmak ve farklı renk tonları (beyaz altın, pembe altın vb.) elde etmek için genellikle gümüş, bakır, nikel, çinko veya paladyum gibi diğer metallerle alaşım halinde kullanılır (örn: 18 ayar %75 altın, 14 ayar %58.5 altın).
+2.  **Yatırım:** İkinci en büyük talep kaynağıdır. Fiziksel altın (külçe, granül, sikke - örn: Cumhuriyet Altını, Krugerrand, Maple Leaf) ve finansal altın ürünleri (altın destekli ETF'ler, vadeli işlem sözleşmeleri, altın hesapları) şeklinde yapılır.
+3.  **Merkez Bankası Rezervleri:** Yukarıda bahsedildiği gibi önemli bir talep unsurudur.
+4.  **Teknoloji (Elektronik ve Diğerleri):** Mükemmel elektrik iletkenliği, esnekliği ve korozyon direnci nedeniyle kritik elektronik bileşenlerde kullanılır. Bilgisayarlar (CPU, RAM), cep telefonları, GPS cihazları ve diğer gelişmiş elektronik aletlerdeki konektörler, anahtar kontakları, lehim telleri ve baskılı devre kartlarında ince kaplamalar halinde bulunur. Kullanılan miktar cihaz başına küçük olsa da, üretilen milyarlarca cihaz nedeniyle toplam talepte önemlidir.
+5.  **Dişçilik:** Biyouyumluluğu, korozyon direnci ve işlenebilirliği nedeniyle dolgu, kuron, köprü ve ortodontik apareylerde kullanılır. Ancak estetik kaygılar ve alternatif malzemelerin (porselen, kompozit) gelişmesiyle kullanımı azalmaktadır.
+6.  **Uzay ve Havacılık:** Kızılötesi radyasyonu (ısı) yansıtma özelliği ve korozyon direnci nedeniyle uzay araçlarında, uydularda ve astronot kasklarının vizörlerinde ince koruyucu kaplama olarak kullanılır. Elektrik bağlantılarında güvenilirliği artırır.
+7.  **Tıp:** Bazı romatoid artrit tedavilerinde (geçmişte daha yaygındı), kanser teşhis ve tedavisinde (nanopartiküller), bazı cerrahi aletlerde ve lazer teknolojilerinde kullanılır.
+8.  **Cam Üretimi:** Özel renkli camların (örn: yakut kırmızısı) üretiminde ve binalarda ısı yalıtımı sağlayan yansıtıcı cam kaplamalarında kullanılır.
+
+Arz Kaynakları:
+Altın arzı iki ana kaynaktan gelir:
+*   **Maden Üretimi:** Dünya genelinde birçok ülkede altın madenciliği yapılır. Başlıca üretici ülkeler Çin, Avustralya, Rusya, ABD, Kanada, Peru, Gana ve Güney Afrika'dır. Madencilik maliyetleri (enerji, işçilik, çevresel düzenlemeler) ve yeni rezerv keşifleri arzı etkiler.
+*   **Geri Dönüşüm:** Eski mücevherler, endüstriyel ve elektronik atıklar (e-atık) önemli bir ikincil arz kaynağıdır. Altın fiyatları yükseldiğinde geri dönüşüm oranları artma eğilimindedir.
+
+Fiyat Dinamikleri:
+Altın fiyatları, küresel arz-talep dengesi, merkez bankası politikaları, yatırımcı duyarlılığı (risk iştahı/kaçışı), enflasyon beklentileri, reel faiz oranları, ABD dolarının değeri, jeopolitik olaylar ve büyük emtia borsalarındaki (örn: LBMA, COMEX) işlemler gibi çok sayıda faktörün karmaşık etkileşimiyle belirlenir.

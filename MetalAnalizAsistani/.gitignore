@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build*/
+*dist*/
+*.egg-info/
+*.log
+logs/
+database/
+*.db
+*.db-journal
+
+# Sanal Ortam
+venv/
+.venv/
+
+# Hassas Bilgiler / Yapılandırma
+.env
+config.ini
+*.credential*
+*.key
+*.token
+
+# IDE / OS dosyaları
+.idea/
+.vscode/
+*.DS_Store
+*.suo
+*.user
+*.sln.docstates
+
+# Streamlit
+.streamlit/
